@@ -1,0 +1,198 @@
+[2025-06-25 16:10:59.887726] go to go to youtube
+[2025-06-25 16:19:53.422903] go to youtube
+[2025-06-25 16:20:21.470787] where would you have any authentications
+[2025-06-25 16:36:10.892582] Command: go to youtube
+Response: Sorry, I could not contact OpenAI right now.
+[2025-06-25 16:53:30.095430] Command: go to youtube
+Response: Sorry, I could not contact OpenAI right now.
+[2025-06-25 17:11:26.073956] Command: go to youtube
+Response: Sorry, I could not contact OpenAI right now.
+[2025-06-25 17:24:18.465553] Command: go to youtube
+Response: Sorry, I could not contact OpenAI right now.
+[2025-06-25 17:50:15.067221] Command: go to youtube
+Response: xAI API error: 404 Client Error: Not Found for url: https://api.x.ai/v1/grok
+[2025-06-25 18:03:18.727414] Command: go to youtube
+Response: xAI API error: 404 Client Error: Not Found for url: https://api.x.ai/grok
+[2025-06-25 18:20:01.403623] Command: go to youtube
+Response: OpenAI API error or connection issue: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-06-25 18:21:47.976111] Command: go to youtube
+Response: OpenAI API error or connection issue: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+[2025-06-25 18:47:57.981520] Command: go to youtube
+Response: No suitable Gemini model found.
+[2025-06-25 18:50:29.432779] Command: go to youtube
+Response: No suitable Gemini model found.
+2025-06-25 18:55:46,571 - INFO - Command received: hey jarvis
+2025-06-25 18:55:47,358 - INFO - AI Response: Hello there!  How can I help you today?
+2025-06-25 18:55:50,967 - INFO - Command received: go to youtube
+2025-06-25 18:55:51,960 - INFO - AI Response: I can't directly interact with the real world, including going to websites like YouTube.  I am a language model; I exist only as a computer program.  To go to YouTube, you will have to do it yourself using a web browser.
+2025-06-25 18:56:27,401 - INFO - Command received: hey jarvis
+2025-06-25 18:56:27,402 - INFO - Command received: hey jarvis
+2025-06-25 18:56:28,006 - INFO - AI Response: Hey there! How can I help you today?
+2025-06-25 18:56:29,235 - INFO - AI Response: Hey there! How can I help you today?
+2025-06-25 18:56:33,419 - INFO - Command received: go to youtube
+2025-06-25 18:56:33,476 - INFO - Command received: go to youtube
+2025-06-25 18:56:34,354 - INFO - AI Response: I can't directly interact with the real world, so I can't go to YouTube.  I'm a language model; I exist only as a computer program.  To go to YouTube, you'll need to open a web browser on your computer or mobile device and navigate to youtube.com.
+2025-06-25 18:56:34,387 - INFO - AI Response: I can't directly interact with the real world, so I can't go to YouTube.  I am a language model; I exist only as a computer program.  To go to YouTube, you will need to open a web browser on your computer or device and navigate to youtube.com.
+2025-06-25 18:57:46,052 - INFO - Command received: hey jarvis
+2025-06-25 18:57:47,883 - INFO - AI Response: Hello! How can I help you today?
+2025-06-25 18:57:52,014 - INFO - Command received: go to youtube
+2025-06-25 18:57:54,042 - INFO - AI Response: I can't directly interact with the real world, so I cannot go to YouTube.  I am a text-based AI and don't have the capability to open web browsers or access the internet.  To go to YouTube, you'll have to do it yourself.
+2025-06-25 19:00:03,569 - INFO - Command received: hey jarvis
+2025-06-25 19:00:04,174 - INFO - AI Response: Hello! How can I help you today?
+2025-06-25 19:00:50,920 - INFO - Command received: vintage hospital
+2025-06-25 19:00:53,941 - INFO - AI Response: The term "vintage hospital" evokes a specific aesthetic and feeling.  It conjures images of several things, depending on the context:
+
+* **Architectural Style:**  This could range from imposing, neoclassical structures of the early 20th century, with grand entrances and long corridors, to more modest, brick buildings of the mid-century modern era.  Think Art Deco details, terrazzo floors, ornate woodwork, and possibly even stained-glass windows.
+
+* **Medical Equipment:**  Images of antique medical equipment come to mind – heavy, metallic instruments; imposing x-ray machines; and perhaps even older, less technologically advanced operating tables.  The equipment would likely have a distinct patina of age.
+
+* **Atmosphere:**  The feeling is often one of quiet solemnity, possibly tinged with a slight unease.  This stems from the association of hospitals with illness and recovery, but the vintage aspect adds a layer of nostalgia and a sense of history.
+
+* **Photographs & Film:**  Vintage hospitals frequently appear in photographs and film as a backdrop or setting, often contributing to a specific mood or narrative.  They can represent a bygone era of medicine, potentially highlighting both the advancements and limitations of the past.
+
+
+To understand what someone means by "vintage hospital," more context is needed.  Are they referring to:
+
+* **A specific building?**  (e.g., "I visited the vintage hospital in my hometown.")
+* **A style of architecture?** (e.g., "The movie was filmed in a beautiful vintage hospital with Art Deco features.")
+* **A nostalgic feeling?** (e.g., "The old photographs evoked the feeling of a vintage hospital ward.")
+
+The term is evocative, but its precise meaning depends on its usage.
+2025-06-25 19:01:00,556 - INFO - Command received: re munda re munda and
+2025-06-25 19:01:01,736 - INFO - AI Response: The phrase "re munda re munda" appears to be from a Punjabi song or phrase.  It translates roughly to "O my boy, O my boy," or "Hey son, Hey son."  The "re" is a vocative particle used to address someone.
+
+To understand the full meaning and context, you need to provide the rest of the sentence or the context where you encountered this phrase.  Without more information, this is the best interpretation.
+2025-06-25 19:01:11,848 - INFO - Command received: are main to sahi hun bola re
+2025-06-25 19:01:12,647 - INFO - AI Response: I cannot understand what you mean by "are main to sahi hun bola re".  It appears to be Hindi or a related dialect, and the phrasing is informal and somewhat unclear.  Could you please rephrase your question or provide more context?
+2025-06-25 19:01:21,982 - INFO - Command received: range rover
+2025-06-25 19:01:23,848 - INFO - AI Response: The Range Rover is a line of luxury SUVs manufactured by Land Rover, a British company now owned by Tata Motors.  Known for its blend of off-road capability and on-road luxury, the Range Rover has become a highly desirable and iconic vehicle.
+
+To give you a more complete answer, I need some more information about what you'd like to know.  For example, are you interested in:
+
+* **Specific models?** (e.g., Range Rover Evoque, Range Rover Sport, Range Rover Velar, Range Rover Classic)  Each model has its own features, specifications, and price point.
+* **Technical specifications?** (e.g., engine options, fuel economy, dimensions, towing capacity)
+* **History?** (The Range Rover has a long and storied past.)
+* **Pricing and availability?**
+* **Reviews and comparisons?**
+* **Something else entirely?**
+
+Please let me know what you'd like to learn about the Range Rover.
+2025-06-25 19:02:22,624 - INFO - Command received: what anandji road
+2025-06-25 19:02:24,760 - INFO - AI Response: There is no widely known road officially named "Anandji Road".  It's possible:
+
+* **It's a local or informal name:**  Many roads have nicknames or informal names not found on official maps.  This is especially true in India, where "Anandji" could be a common name associated with a specific area.
+* **It's misspelled:** A slight misspelling could make it difficult to find on maps or databases.  Could you provide more context, such as the city or region it's located in?
+* **It doesn't exist:** The name may be incorrect.
+
+To help me find it, please give me more information, such as:
+
+* **City or town:** Where is this road located?
+* **State/Province/Region:**  Which part of the country (or world) is it in?
+* **Nearby landmarks:** Are there any buildings, businesses, or other recognizable features near this road?
+
+With more details, I might be able to help you locate it.
+2025-06-25 19:56:07,168 - INFO - Command received: hey jarvis
+2025-06-25 19:56:10,619 - INFO - AI Response: Hello! How can I help you today?
+2025-06-25 19:56:13,511 - INFO - Command received: go to youtube
+2025-06-25 19:56:24,939 - INFO - AI Response: I can't directly interact with the real world, so I can't go to YouTube.  I'm a text-based AI. To go to YouTube, you'll need to open a web browser on your computer or device and go to youtube.com.
+2025-06-25 19:56:50,899 - INFO - Command received: hrv
+2025-06-25 19:57:06,798 - INFO - AI Response: HRV stands for **Heart Rate Variability**.  It's a measure of the variation in time between your heartbeats.  A higher HRV generally indicates better cardiovascular health and resilience to stress.  Lower HRV can be associated with increased risk of various health problems.
+2025-06-25 19:57:21,966 - INFO - Command received: hathi raja
+2025-06-25 19:57:22,177 - INFO - Command received: hathi raja
+2025-06-25 19:57:36,355 - INFO - AI Response: "Hathi Raja" translates from Hindi to English as "Elephant King".  It's likely referring to a specific elephant, a title for an elephant, or even a work of art or literature featuring an elephant king.  Without more context, it's difficult to say precisely what you mean.
+2025-06-25 19:57:46,711 - INFO - AI Response: "Hathi Raja" translates from Hindi to English as "Elephant King".  It's a title or a name that could refer to a number of things, depending on the context.  It might be:
+
+* **A nickname for a particularly large or dominant elephant.**
+* **The name of a character in a story, film, or book.**
+* **A metaphorical reference to a powerful or important figure.**
+* **The title of a song or piece of music.**
+
+To understand the meaning more precisely, I need more context. Where did you encounter this term?
+2025-06-25 19:57:52,823 - INFO - Command received: hey jarvis
+2025-06-25 19:57:52,966 - INFO - Command received: hey jarvis
+2025-06-25 19:57:55,216 - INFO - AI Response: Hey there! How can I help you today?
+2025-06-25 19:57:55,227 - INFO - AI Response: Hey there! How can I help you today?
+2025-06-25 19:57:59,906 - INFO - Command received: can you sing me a telugu song
+2025-06-25 19:58:02,567 - INFO - Command received: can you sing me a telugu song
+2025-06-25 20:09:42,837 - INFO - Command received: hey jar
+2025-06-25 20:09:45,809 - INFO - AI Response: Hey there!  How can I help you today?
+2025-06-25 20:09:51,955 - INFO - Command received: sing a song for me
+2025-06-25 20:10:55,226 - INFO - AI Response: (Verse 1)
+The sun dips low, a fiery kiss,
+Upon the hills, a golden bliss.
+The birds have flown to sleepy trees,
+A gentle breeze whispers through the leaves.
+
+(Chorus)
+Oh, the day is done, the stars ignite,
+A velvet cloak of deepest night.
+The world is hushed, a peaceful scene,
+A quiet calm, serene and keen.
+
+(Verse 2)
+The crickets chirp their evening song,
+Where shadows stretch and linger long.
+A firefly blinks, a tiny spark,
+Leaving its trace upon the dark.
+
+(Chorus)
+Oh, the day is done, the stars ignite,
+A velvet cloak of deepest night.
+The world is hushed, a peaceful scene,
+A quiet calm, serene and keen.
+
+(Bridge)
+So close your eyes and let them rest,
+Upon your pillow, gently pressed.
+Let worries fade and dreams take flight,
+Embrace the darkness, soft and bright.
+
+(Chorus)
+Oh, the day is done, the stars ignite,
+A velvet cloak of deepest night.
+The world is hushed, a peaceful scene,
+A quiet calm, serene and keen.
+
+(Outro)
+Sleep now, sleep, till morning light,
+Good night, good night, sleep tight, sleep tight.
+2025-06-25 20:13:48,432 - INFO - Command received: i want the location of pulivendula
+2025-06-25 20:13:54,256 - INFO - AI Response: Pulivendula is located in the **Cuddapah district of Andhra Pradesh, India**.
+2025-06-25 20:14:09,149 - INFO - Command received: kaleja
+2025-06-25 20:14:32,643 - INFO - AI Response: The word "kaleja" doesn't have a single, universally understood meaning.  Its meaning depends heavily on context and language.
+
+* **It's likely a misspelling or a word from a specific language or dialect.**  Could you provide more context?  For example:
+
+    * **What language do you think it's from?**  Knowing the language will help significantly.
+    * **Where did you encounter this word?** (e.g., a book, a song, a conversation)
+    * **What was the surrounding text or conversation about?**
+
+With more information, I can help you determine the meaning of "kaleja."
+2025-06-25 20:15:47,843 - INFO - Command received: go to youtube
+2025-06-25 20:16:01,650 - INFO - AI Response: I can't directly interact with the real world, so I can't go to YouTube.  I'm a language model; I exist only as a computer program. To go to YouTube, you'll have to do it yourself using a web browser or app.
+2025-06-25 20:16:18,132 - INFO - Command received: i assist you to go to the brave app
+2025-06-25 20:16:59,050 - INFO - AI Response: Okay, I understand.  To assist *me* in going to the Brave app, you would need to tell me how you are intending to do so.  Since I am a large language model and don't have a physical body or the ability to interact with applications like a human user,  I can't actually *use* the Brave app.
+
+Perhaps you meant to help a *human* user go to the Brave app?  If so,  instructions would depend on their device.  For example:
+
+* **On a computer:**  "Open your web browser and go to brave.com to download the Brave browser." or "Click on the Brave icon on your desktop/taskbar."
+* **On a mobile device:** "Find the Brave app icon on your home screen and tap it." or "Open your app store and search for 'Brave browser' and then install it."
+
+Please clarify your request if you'd like more specific instructions.
+2025-06-25 20:17:10,721 - INFO - Command received: go to chrome chrome data
+2025-06-25 20:18:16,725 - INFO - AI Response: I cannot directly access or interact with your Chrome data.  I am a large language model; I don't have the capability to browse the internet or access files on your computer.  To access your Chrome data, you will need to do so manually through your computer's operating system.  This typically involves:
+
+* **Opening Chrome:** Launch the Google Chrome browser.
+* **Accessing Settings:** Click the three vertical dots (More) in the top right corner, then select "Settings."
+* **Navigating to relevant sections:**  Depending on what kind of data you're looking for, you'll navigate to different sections within Settings.  Some common areas include:
+    * **History:** To view your browsing history.
+    * **Bookmarks:** To view your saved bookmarks.
+    * **Downloads:** To view your downloaded files.
+    * **Passwords:** To view and manage your saved passwords (requires your Chrome password or other authentication).
+    * **Cookies and other site data:** To manage cookies and site data.
+    * **Privacy and security:** To adjust your privacy settings and manage other security-related aspects.
+    * **Extensions:** To manage installed extensions.
+
+The exact location of these options might slightly vary depending on your Chrome version.  If you have a more specific type of Chrome data you are looking for, let me know, and I can provide more precise instructions.
+2025-06-25 20:21:47,521 - INFO - Command received: play the song in telugu
+2025-06-25 20:23:25,258 - INFO - Command received: song in telugu

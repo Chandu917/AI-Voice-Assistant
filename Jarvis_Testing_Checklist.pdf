@@ -1,0 +1,142 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 678 >>
+stream
+BT
+/F1 24 Tf
+100 740 Td
+(Jarvis AI Voice Assistant Testing Checklist) Tj
+ET
+BT
+/F1 14 Tf
+100 700 Td
+(1. Core Functionalities) Tj
+ET
+BT
+/F1 12 Tf
+100 680 Td
+(Wake Word Detection: Detects "Hey Jarvis" and activates) Tj
+ET
+BT
+/F1 12 Tf
+100 660 Td
+(Password/Voice Authentication: Authenticates user before access) Tj
+ET
+BT
+/F1 12 Tf
+100 640 Td
+(Voice Input (Listen): Captures spoken commands accurately) Tj
+ET
+BT
+/F1 12 Tf
+100 620 Td
+(Voice Output (Speak): Speaks responses clearly without overlaps) Tj
+ET
+BT
+/F1 12 Tf
+100 600 Td
+(GPT Integration: Processes questions via OpenAI API) Tj
+ET
+BT
+/F1 12 Tf
+100 580 Td
+(Open Apps: Commands like "Open Finder", "Open Brave" work) Tj
+ET
+BT
+/F1 12 Tf
+100 560 Td
+(Open Websites: Commands like "Open YouTube in Brave") Tj
+ET
+BT
+/F1 12 Tf
+100 540 Td
+(System Commands: Executes shutdown, restart, etc.) Tj
+ET
+BT
+/F1 12 Tf
+100 520 Td
+(Error Handling: Handles invalid inputs gracefully) Tj
+ET
+BT
+/F1 12 Tf
+100 500 Td
+(Exit Behavior: Stops listening and shuts down properly) Tj
+ET
+BT
+/F1 14 Tf
+100 460 Td
+(2. Edge Cases Testing) Tj
+ET
+BT
+/F1 12 Tf
+100 440 Td
+(Misheard Wake Words: Ignores random noise) Tj
+ET
+BT
+/F1 12 Tf
+100 420 Td
+(Partial Commands: Handles incomplete commands) Tj
+ET
+BT
+/F1 12 Tf
+100 400 Td
+(Silent Environment vs Noisy: Consistent in both conditions) Tj
+ET
+BT
+/F1 12 Tf
+100 380 Td
+(Rapid Commands: Handles back-to-back commands properly) Tj
+ET
+BT
+/F1 12 Tf
+100 360 Td
+(API Failure Simulation: Handles API quota exceeded or timeout errors) Tj
+ET
+BT
+/F1 12 Tf
+100 340 Td
+(Microphone Unavailable: Graceful handling without crash) Tj
+ET
+BT
+/F1 14 Tf
+100 300 Td
+(3. Performance & Stress Testing) Tj
+ET
+BT
+/F1 12 Tf
+100 280 Td
+(Long Session Stability: Works over extended periods) Tj
+ET
+BT
+/F1 12 Tf
+100 260 Td
+(High CPU Load: Maintains responsiveness under load) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000117 00000 n 
+0000000310 00000 n 
+0000000970 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1080
+%%EOF

@@ -1,0 +1,151 @@
+# Debugging output
+
+# Placeholder for logging implementation
+
+# You can use logging module for detailed logs
+
+# Example function to log messages
+
+def log_message(message):
+    print(f"Log: {message}")2025-06-25 21:43:29,910 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:10:29,584 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:14:27,455 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:14:30,763 [INFO] Wake word detected: hrv
+2025-06-25 22:14:34,647 [INFO] Wake word detected: hr 20
+2025-06-25 22:14:37,910 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:14:41,707 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:14:41,818 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:14:44,749 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-25 22:14:46,305 [INFO] Spoken: Jarvis shutdown complete.
+2025-06-25 22:14:46,305 [INFO] Jarvis shutdown complete.
+2025-06-25 22:15:11,884 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:15:17,453 [INFO] Wake word detected: hey jar
+2025-06-25 22:15:20,729 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:15:24,501 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:15:24,611 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:15:27,542 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-25 22:15:29,098 [INFO] Spoken: Jarvis shutdown complete.
+2025-06-25 22:15:29,098 [INFO] Jarvis shutdown complete.
+2025-06-25 22:18:50,398 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:18:57,202 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:19:00,980 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:19:01,098 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:19:04,021 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-25 22:19:05,577 [INFO] Spoken: Jarvis shutdown complete.
+2025-06-25 22:19:05,577 [INFO] Jarvis shutdown complete.
+2025-06-25 22:20:53,558 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:20:56,521 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:21:00,268 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:21:00,382 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:21:03,310 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-25 22:21:04,865 [INFO] Spoken: Jarvis shutdown complete.
+2025-06-25 22:21:04,865 [INFO] Jarvis shutdown complete.
+2025-06-25 22:26:21,624 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:26:24,801 [INFO] Wake word detected: hrs
+2025-06-25 22:26:27,972 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:26:31,748 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:26:31,859 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:26:34,790 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-25 22:28:58,682 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:29:06,381 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:29:10,118 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:29:10,230 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:29:13,160 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-25 22:29:14,715 [INFO] Spoken: Jarvis shutdown complete.
+2025-06-25 22:29:14,715 [INFO] Jarvis shutdown complete.
+2025-06-25 22:29:55,234 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:30:02,599 [INFO] Wake word detected: catalogue
+2025-06-25 22:30:21,133 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:30:24,886 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:30:38,759 [INFO] Spoken: Authentication successful. How can I help you?
+2025-06-25 22:30:44,891 [INFO] Recognized speech: explain me wife what is wife
+2025-06-25 22:30:56,766 [INFO] Spoken: Sorry, I couldn't understand.
+2025-06-25 22:30:56,767 [WARNING] UnknownValueError: Speech not understood.
+2025-06-25 22:30:58,902 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:31:07,610 [INFO] Spoken: Sorry, I couldn't understand.
+2025-06-25 22:31:07,611 [WARNING] UnknownValueError: Speech not understood.
+2025-06-25 22:31:09,746 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:31:15,914 [INFO] Recognized speech: hello hey jarvis
+2025-06-25 22:31:22,982 [INFO] Recognized speech: you know the meaning of lover
+2025-06-25 22:31:32,792 [INFO] Spoken: I didn't hear anything.
+2025-06-25 22:31:32,792 [WARNING] WaitTimeoutError: No speech detected.
+2025-06-25 22:31:34,939 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:31:41,197 [INFO] Spoken: Sorry, I couldn't understand.
+2025-06-25 22:31:41,197 [WARNING] UnknownValueError: Speech not understood.
+2025-06-25 22:31:43,333 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:31:49,057 [INFO] Spoken: Sorry, I couldn't understand.
+2025-06-25 22:31:49,058 [WARNING] UnknownValueError: Speech not understood.
+2025-06-25 22:31:51,216 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:33:43,554 [INFO] Spoken: Jarvis is now online. Waiting for wake word...
+2025-06-25 22:33:46,550 [INFO] Wake word detected: hey jarvis
+2025-06-25 22:33:50,276 [INFO] Spoken: Yes boss, I am your assistant. Please authenticate yourself.
+2025-06-25 22:34:11,777 [INFO] Spoken: Authentication successful. How can I help you?
+2025-06-25 22:34:14,727 [INFO] Recognized speech: go to youtube
+2025-06-25 22:34:24,478 [INFO] Spoken: I didn't hear anything.
+2025-06-25 22:34:24,478 [WARNING] WaitTimeoutError: No speech detected.
+2025-06-25 22:34:26,603 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:34:32,835 [INFO] Recognized speech: go to
+2025-06-25 22:34:42,625 [INFO] Spoken: I didn't hear anything.
+2025-06-25 22:34:42,625 [WARNING] WaitTimeoutError: No speech detected.
+2025-06-25 22:34:45,144 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:34:53,299 [INFO] Recognized speech: go to the whatsapp
+2025-06-25 22:35:03,081 [INFO] Spoken: I didn't hear anything.
+2025-06-25 22:35:03,098 [WARNING] WaitTimeoutError: No speech detected.
+2025-06-25 22:35:05,206 [INFO] Spoken: I didn't catch that. Please repeat.
+2025-06-25 22:35:08,352 [INFO] Spoken: Too many failed attempts. Returning to standby.
+2025-06-25 22:35:08,463 [ERROR] Unexpected error in main loop: No module named 'speech_engine'
+2025-06-25 22:35:11,382 [INFO] Spoken: An unexpected error occurred. Shutting down.
+2025-06-26 23:49:23,551 [ERROR] Unexpected error in main loop: Could not find PyAudio; check installation
+2025-06-26 23:49:32,128 [INFO] Jarvis shutdown complete.
+2025-06-26 23:49:56,241 [ERROR] Unexpected error in main loop: FLAC conversion utility not available - consider installing the FLAC command line application by running `apt-get install flac` or your operating system's equivalent
+2025-06-26 23:50:04,968 [INFO] Jarvis shutdown complete.
+2025-06-26 23:50:54,047 [INFO] Wake word detected: hey jarvis
+2025-06-26 23:54:59,913 [INFO] Wake word detected: hey jarvis
+2025-06-26 23:59:08,647 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:07:25,446 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:07:58,542 [INFO] Recognized speech: open youtube
+2025-06-27 00:08:26,632 [INFO] Recognized speech: no
+2025-06-27 00:08:34,330 [INFO] Recognized speech: open youtube
+2025-06-27 00:11:11,720 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:11:47,561 [INFO] Recognized speech: open youtube
+2025-06-27 00:14:16,864 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:14:44,969 [INFO] Recognized speech: open youtube
+2025-06-27 00:14:50,685 [INFO] Recognized speech: come back
+2025-06-27 00:15:04,784 [INFO] Recognized speech: hrms
+2025-06-27 00:15:22,314 [INFO] Recognized speech: open spotify
+2025-06-27 00:15:35,810 [INFO] Recognized speech: open spotify
+2025-06-27 00:17:27,767 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:17:58,370 [INFO] Recognized speech: open spotify
+2025-06-27 00:20:09,641 [INFO] Wake word detected: hey jarvis hey jarvis
+2025-06-27 00:20:44,490 [INFO] Recognized speech: open spotify
+2025-06-27 00:20:57,316 [INFO] Recognized speech: ok open netflix
+2025-06-27 00:21:12,118 [INFO] Recognized speech: open netflix
+2025-06-27 00:22:20,009 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:22:51,289 [INFO] Recognized speech: open spotify
+2025-06-27 00:22:59,845 [INFO] Recognized speech: open netflix
+2025-06-27 00:23:24,151 [INFO] Recognized speech: open google
+2025-06-27 00:23:38,701 [INFO] Recognized speech: open files
+2025-06-27 00:24:45,010 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:25:18,827 [INFO] Recognized speech: open netflix
+2025-06-27 00:25:25,521 [INFO] Recognized speech: open youtube
+2025-06-27 00:25:32,758 [INFO] Recognized speech: open spotify
+2025-06-27 00:25:38,604 [INFO] Recognized speech: open whatsapp
+2025-06-27 00:25:42,865 [INFO] Recognized speech: open google
+2025-06-27 00:25:47,987 [INFO] Recognized speech: giri corrected
+2025-06-27 00:25:56,851 [INFO] Recognized speech: verify the problem
+2025-06-27 00:28:21,570 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:28:53,194 [INFO] Recognized speech: open netflix
+2025-06-27 00:29:04,423 [INFO] Recognized speech: tell me joke
+2025-06-27 00:29:10,241 [INFO] Recognized speech: speak any words
+2025-06-27 00:31:18,978 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:31:47,345 [INFO] Recognized speech: tell me a joke
+2025-06-27 00:31:59,530 [INFO] Recognized speech: can you give me a pick up line
+2025-06-27 00:32:10,129 [INFO] Recognized speech: open youtube
+2025-06-27 00:35:08,974 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:35:40,615 [INFO] Recognized speech: open youtube
+2025-06-27 00:35:51,011 [INFO] Recognized speech: open spotify
+2025-06-27 00:37:12,085 [INFO] Wake word detected: good night
+2025-06-27 00:37:19,642 [INFO] Wake word detected: hey jarvis
+2025-06-27 00:37:47,611 [INFO] Recognized speech: open youtube
+2025-06-27 00:38:20,933 [INFO] Recognized speech: open spotify
+2025-06-27 00:38:30,286 [INFO] Recognized speech: open youtube
